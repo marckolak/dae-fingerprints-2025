@@ -1,9 +1,9 @@
-Dataset: DAE fingerprints 2025
+# Dataset: DAE fingerprints 2025
 ### by Marcin Kolakowski (Warsaw University of Technology, Warsaw, Poland)
 
 [![CC BY 4.0][cc-by-shield]][cc-by] 
 
-<img src="description/img/poses.png" alt="Measurement points" width="300"/>
+<img src="/img/poses.png" alt="Measurement points" width="300"/>
 
 
 A dataset of WiFi fingerprints collected in May 2025 with dynamic accuracy estimation in mind. The dataset includes:
